@@ -2,7 +2,7 @@ Describe que hacen los siguientes comandos de git, escribe su descripcion al fre
 
 git status: Este comando se usa para obtener el estado actual del repositorio.
 
-git clone: se utiliza para fijar como objetivo un repositorio existente con el fin de clonarlo o copiarlo.
+git clone: este comando se utiliza para fijar como objetivo un repositorio existente con el fin de clonarlo o copiarlo.
 
 git pull: se emplea para extraer y descargar contenido desde un repositorio remoto .
 
